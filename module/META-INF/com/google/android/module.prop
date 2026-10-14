@@ -2,5 +2,5 @@ id=perf_tweaks_khaje
 name=Perf HAL Tweaks (SM6225/khaje) - Normal/Game/Battery
 version=v4.0
 versionCode=5
-author=CHANGE_ME
+author=onel1990
 description=3 perf HAL profiles with auto switch: Normal, Game (by foreground app), Battery (Battery Saver / low %). SM6225/khaje.
