@@ -1,6 +1,6 @@
 # Perf HAL Tweaks (SM6225 / khaje)
 
-A Magisk / KernelSU module that tunes the Qualcomm perf HAL configs of **SM6225 (Snapdragon 680, "khaje")** devices and switches between three profiles automatically:
+A Magisk / KernelSU module that tunes the Qualcomm perf HAL configs of **SM6225 (Snapdragon 680,685, "khaje""bengal")** devices and switches between three profiles automatically:
 
 | Profile | When it is used | What it does |
 |---|---|---|
